@@ -1,3 +1,3 @@
 Who owns github?
-What is the purpose of GitHub?
+What is the purpose of GitHub? The main purpose of GitHub.com is to facilitate the version control and issue tracking aspects of software development. Labels, milestones, responsibility assignment, and a search engine are available for issue tracking. For version control, Git (and by extension GitHub.com) allows pull requests to propose changes to the source code.
 Why is GitHub important?
